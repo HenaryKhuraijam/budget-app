@@ -171,7 +171,8 @@ If you like this project please give it a star on [GitHub](git@github.com:Henary
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://bit.ly/MicroverseTN)..
+- I would like to thank [Microverse](https://bit.ly/MicroverseTN),
+- I would like to thank [ Gregoire Vella on Behance](https://www.behance.net/gregoirevella) [the author of the original design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
